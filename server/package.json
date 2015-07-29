@@ -1,0 +1,19 @@
+{
+  "name": "ciscoDashboard",
+  "version": "1.0.0",
+  "description": "ciscoDashboard",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fami Shukoor",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "jwt-simple": "^0.3.0",
+    "morgan": "^1.6.1",
+    "mongoose": "3.8.8",
+    "aws-sdk": ">= 2.0.9"
+  }
+}
