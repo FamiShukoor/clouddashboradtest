@@ -1,7 +1,7 @@
 {
-  "name": "ciscoDashboard",
+  "name": "computeDashboard",
   "version": "1.0.0",
-  "description": "ciscoDashboard",
+  "description": "computeDashboard",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
